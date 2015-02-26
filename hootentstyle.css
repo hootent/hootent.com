@@ -16,10 +16,6 @@ body {
 .hootentjumbotron {
   background-image: url('http://i.imgur.com/OKog7xn.jpg'); 
   height: 100%;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
 }
 
 .menu ul {
